@@ -51,15 +51,15 @@
 ## 📈 GitHub Stats
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=tokyonight" />
+<img src="https://github-readme-stats.vercel.app/api?username=anujraghav7900&show_icons=true&theme=tokyonight" />
 </p>
 
 <p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=your-username&theme=tokyonight" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=anujraghav7900&theme=tokyonight" />
 </p>
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=tokyonight" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anujraghav7900&layout=compact&theme=tokyonight" />
 </p>
 
 ---
